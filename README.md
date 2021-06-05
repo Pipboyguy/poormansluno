@@ -1,2 +1,3 @@
-# poormansluno
-Luno on a budget
+# Poor Man's luno
+
+Luno on a budget :')
